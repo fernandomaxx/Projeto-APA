@@ -1,0 +1,112 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/petcomputacao/Área de Trabalho/projetofinalapa-20190509T144239Z-001/projetofinalapa/ConstructionHeuristic/best_insertion.h
+../Graph/graph_adjacency_list.h
+/home/petcomputacao/Área de Trabalho/projetofinalapa-20190509T144239Z-001/projetofinalapa/Graph/graph_adjacency_list.h
+../Graph/graph_adjacency_matrix.h
+/home/petcomputacao/Área de Trabalho/projetofinalapa-20190509T144239Z-001/projetofinalapa/Graph/graph_adjacency_matrix.h
+
+/home/petcomputacao/Área de Trabalho/projetofinalapa-20190509T144239Z-001/projetofinalapa/ConstructionHeuristic/greedy_construction.h
+vector
+-
+queue
+-
+../Graph/graph_adjacency_list.h
+/home/petcomputacao/Área de Trabalho/projetofinalapa-20190509T144239Z-001/projetofinalapa/Graph/graph_adjacency_list.h
+
+/home/petcomputacao/Área de Trabalho/projetofinalapa-20190509T144239Z-001/projetofinalapa/FileReader/file_reader.h
+string
+-
+iostream
+-
+fstream
+-
+iostream
+-
+sstream
+-
+../Graph/graph_adjacency_matrix.h
+/home/petcomputacao/Área de Trabalho/projetofinalapa-20190509T144239Z-001/projetofinalapa/Graph/graph_adjacency_matrix.h
+../Graph/graph_adjacency_list.h
+/home/petcomputacao/Área de Trabalho/projetofinalapa-20190509T144239Z-001/projetofinalapa/Graph/graph_adjacency_list.h
+
+/home/petcomputacao/Área de Trabalho/projetofinalapa-20190509T144239Z-001/projetofinalapa/Graph/graph_adjacency_list.h
+vector
+-
+iostream
+-
+
+/home/petcomputacao/Área de Trabalho/projetofinalapa-20190509T144239Z-001/projetofinalapa/Graph/graph_adjacency_matrix.h
+iostream
+-
+
+/home/petcomputacao/Área de Trabalho/projetofinalapa-20190509T144239Z-001/projetofinalapa/PermutationHeuristic/neighbor_struct.h
+
+/home/petcomputacao/Área de Trabalho/projetofinalapa-20190509T144239Z-001/projetofinalapa/PermutationHeuristic/swap.h
+../Graph/graph_adjacency_matrix.h
+/home/petcomputacao/Área de Trabalho/projetofinalapa-20190509T144239Z-001/projetofinalapa/Graph/graph_adjacency_matrix.h
+neighbor_struct.h
+/home/petcomputacao/Área de Trabalho/projetofinalapa-20190509T144239Z-001/projetofinalapa/PermutationHeuristic/neighbor_struct.h
+
+/home/petcomputacao/Área de Trabalho/projetofinalapa-20190509T144239Z-001/projetofinalapa/PermutationHeuristic/two_opt.h
+../Graph/graph_adjacency_matrix.h
+/home/petcomputacao/Área de Trabalho/projetofinalapa-20190509T144239Z-001/projetofinalapa/Graph/graph_adjacency_matrix.h
+neighbor_struct.h
+/home/petcomputacao/Área de Trabalho/projetofinalapa-20190509T144239Z-001/projetofinalapa/PermutationHeuristic/neighbor_struct.h
+
+/home/petcomputacao/Área de Trabalho/projetofinalapa-20190509T144239Z-001/projetofinalapa/PermutationHeuristic/vnd.h
+two_opt.h
+/home/petcomputacao/Área de Trabalho/projetofinalapa-20190509T144239Z-001/projetofinalapa/PermutationHeuristic/two_opt.h
+swap.h
+/home/petcomputacao/Área de Trabalho/projetofinalapa-20190509T144239Z-001/projetofinalapa/PermutationHeuristic/swap.h
+vector
+-
+
+/home/petcomputacao/Área de Trabalho/projetofinalapa-20190509T144239Z-001/projetofinalapa/grasp.h
+Graph/graph_adjacency_list.h
+/home/petcomputacao/Área de Trabalho/projetofinalapa-20190509T144239Z-001/projetofinalapa/Graph/graph_adjacency_list.h
+Graph/graph_adjacency_matrix.h
+/home/petcomputacao/Área de Trabalho/projetofinalapa-20190509T144239Z-001/projetofinalapa/Graph/graph_adjacency_matrix.h
+PermutationHeuristic/vnd.h
+/home/petcomputacao/Área de Trabalho/projetofinalapa-20190509T144239Z-001/projetofinalapa/PermutationHeuristic/vnd.h
+time.h
+-
+algorithm
+-
+vector
+-
+queue
+-
+
+/home/petcomputacao/Área de Trabalho/projetofinalapa-20190509T144239Z-001/projetofinalapa/main.cpp
+main.h
+/home/petcomputacao/Área de Trabalho/projetofinalapa-20190509T144239Z-001/projetofinalapa/main.h
+
+/home/petcomputacao/Área de Trabalho/projetofinalapa-20190509T144239Z-001/projetofinalapa/main.h
+iostream
+-
+Graph/graph_adjacency_list.h
+/home/petcomputacao/Área de Trabalho/projetofinalapa-20190509T144239Z-001/projetofinalapa/Graph/graph_adjacency_list.h
+Graph/graph_adjacency_matrix.h
+/home/petcomputacao/Área de Trabalho/projetofinalapa-20190509T144239Z-001/projetofinalapa/Graph/graph_adjacency_matrix.h
+ConstructionHeuristic/greedy_construction.h
+/home/petcomputacao/Área de Trabalho/projetofinalapa-20190509T144239Z-001/projetofinalapa/ConstructionHeuristic/greedy_construction.h
+ConstructionHeuristic/best_insertion.h
+/home/petcomputacao/Área de Trabalho/projetofinalapa-20190509T144239Z-001/projetofinalapa/ConstructionHeuristic/best_insertion.h
+PermutationHeuristic/two_opt.h
+/home/petcomputacao/Área de Trabalho/projetofinalapa-20190509T144239Z-001/projetofinalapa/PermutationHeuristic/two_opt.h
+PermutationHeuristic/swap.h
+/home/petcomputacao/Área de Trabalho/projetofinalapa-20190509T144239Z-001/projetofinalapa/PermutationHeuristic/swap.h
+PermutationHeuristic/vnd.h
+/home/petcomputacao/Área de Trabalho/projetofinalapa-20190509T144239Z-001/projetofinalapa/PermutationHeuristic/vnd.h
+FileReader/file_reader.h
+/home/petcomputacao/Área de Trabalho/projetofinalapa-20190509T144239Z-001/projetofinalapa/FileReader/file_reader.h
+grasp.h
+/home/petcomputacao/Área de Trabalho/projetofinalapa-20190509T144239Z-001/projetofinalapa/grasp.h
+

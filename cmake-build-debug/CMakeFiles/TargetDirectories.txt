@@ -1,0 +1,3 @@
+/home/petcomputacao/Área de Trabalho/projetofinalapa-20190509T144239Z-001/projetofinalapa/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/petcomputacao/Área de Trabalho/projetofinalapa-20190509T144239Z-001/projetofinalapa/cmake-build-debug/CMakeFiles/projetofinalapa.dir
+/home/petcomputacao/Área de Trabalho/projetofinalapa-20190509T144239Z-001/projetofinalapa/cmake-build-debug/CMakeFiles/edit_cache.dir
